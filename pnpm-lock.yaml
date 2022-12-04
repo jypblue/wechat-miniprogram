@@ -1,0 +1,25 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@vant/weapp': ^1.10.8
+  miniprogram-api-typings: ^3.6.0
+
+dependencies:
+  '@vant/weapp': registry.npmjs.org/@vant/weapp/1.10.8
+
+devDependencies:
+  miniprogram-api-typings: registry.npmjs.org/miniprogram-api-typings/3.6.0
+
+packages:
+
+  registry.npmjs.org/@vant/weapp/1.10.8:
+    resolution: {integrity: sha512-/6w9U5UclF50ORqM2C9vo+oB5+PCOuLGpNI3cxYL1z0xWqPYratitLRhQx53Qo6k1I45Ri8DYGCb7C0qSKB/xg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@vant/weapp/-/weapp-1.10.8.tgz}
+    name: '@vant/weapp'
+    version: 1.10.8
+    dev: false
+
+  registry.npmjs.org/miniprogram-api-typings/3.6.0:
+    resolution: {integrity: sha512-xwK3PzhhxnfWqDfBikHLdAbj7Wy4F887nBcQrzwuF758Fw2qC4ivpKPL9t0uJZk5QYnU28+NqA7Q3lzYGMHQnA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/miniprogram-api-typings/-/miniprogram-api-typings-3.6.0.tgz}
+    name: miniprogram-api-typings
+    version: 3.6.0
+    dev: true
